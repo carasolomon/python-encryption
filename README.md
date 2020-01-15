@@ -1,5 +1,5 @@
-# week7-python-encryption
-## Week 7 Assignment: Encrypting with Python
+# Python Encryption
+## Assignment for class: Encrypting with Python
 
 ### The goals of the assignment are:
 
